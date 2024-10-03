@@ -1,8 +1,6 @@
-## Hi! I'm Carolina Papes AKA capapes
+## Hi there!
 
-![avatartion](https://github.com/user-attachments/assets/8a14bbdb-4f1b-4231-bc17-9d3d4b5d4069)
-
-Hi! I’m Carolina, a graphic designer and front-end developer with 4 years of experience. I’m currently improving my coding skills at 42 School Barcelona and always looking for new projects to work on. I love collaborating with people and bringing creative ideas to life!
+I’m Carolina AKA capapes, a graphic designer and front-end developer with 4 years of experience. I’m currently improving my coding skills at 42 School Barcelona and always looking for new projects to work on. I love collaborating with people and bringing creative ideas to life!
 
 
 
