@@ -1,8 +1,15 @@
-## Capapes
+## Hi! I'm Carolina Papes AKA capapes
 
-![avatartion](https://github.com/user-attachments/assets/6686bc02-ff29-48da-898e-8389c1b69eea)
+<div align="center">
+  <a href="https://github.com/carolinapapes">
+    <img>![avatartion](https://github.com/user-attachments/assets/8a14bbdb-4f1b-4231-bc17-9d3d4b5d4069)</img>
+  </a>
+  <p>
+    Hi! I’m Carolina, a graphic designer and front-end developer with 4 years of experience. I’m currently improving my coding skills at 42 School Barcelona and always looking for new projects to work on. I love collaborating with people and bringing creative ideas to life!
+  </p>
+</div>
 
-Hi! I’m Carolina, a graphic designer and front-end developer with 4 years of experience. I’m currently improving my coding skills at 42 School Barcelona and always looking for new projects to work on. I love collaborating with people and bringing creative ideas to life!
+
 
 <!--
 **carolinapapes/carolinapapes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
