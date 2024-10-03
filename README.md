@@ -1,4 +1,6 @@
-## Hi there 👋
+## Capapes
+
+Hi! I’m Carolina, a graphic designer and front-end developer with 4 years of experience. I’m currently improving my coding skills at 42 School Barcelona and always looking for new projects to work on. I love collaborating with people and bringing creative ideas to life!
 
 <!--
 **carolinapapes/carolinapapes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
