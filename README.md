@@ -1,5 +1,7 @@
 ## Capapes
 
+![avatartion](https://github.com/user-attachments/assets/6686bc02-ff29-48da-898e-8389c1b69eea)
+
 Hi! I’m Carolina, a graphic designer and front-end developer with 4 years of experience. I’m currently improving my coding skills at 42 School Barcelona and always looking for new projects to work on. I love collaborating with people and bringing creative ideas to life!
 
 <!--
