@@ -1,6 +1,6 @@
 ## Hi there!
 
-I’m Carolina, also known as capapes—a graphic designer and front-end developer with 4 years of experience. I'm currently honing my coding skills at 42 School Barcelona while working as a freelancer on Upwork. I’m always looking for new projects to collaborate on, and I love bringing creative ideas to life!
+I’m Carolina, also known as capapes—a graphic designer and front-end developer with 4 years of experience. I'm currently improving my coding skills at 42 School Barcelona while working as a freelancer on Upwork. I’m always looking for new projects to collaborate on, and I love bringing creative ideas to life!
 
 
 
